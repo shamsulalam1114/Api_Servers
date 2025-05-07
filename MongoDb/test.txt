@@ -1,0 +1,3 @@
+Schema - Define the tructure
+      Schema - model
+      uisng model we do CURD operations

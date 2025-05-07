@@ -1,0 +1,4 @@
+1742951002009 : ::1  GET : /api/users/1000 
+1742951018667 : ::1  POST : /api/users 
+1742951085203 : ::1  GET : /api/users/1000 
+1742951088780 : ::1  POST : /api/users 
